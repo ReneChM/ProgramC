@@ -1,1 +1,2 @@
-# ProgramC
+This is a git repo
+
